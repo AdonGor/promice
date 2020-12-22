@@ -1,2 +1,2 @@
-# promice
+# promise
 11-module
